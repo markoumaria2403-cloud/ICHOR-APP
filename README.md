@@ -1,6 +1,6 @@
 # ICHOR · Astronaut Health & Radiation Monitoring
 
-**Live app → [ichor.streamlit.app](https://ichor.streamlit.app)**
+**Live app → [ichore.streamlit.app](https://ichore.streamlit.app)**
 
 ICHOR is an interactive Streamlit dashboard for monitoring astronauts' health on board a deep-space mission.
 It brings together radiation exposure, vital signs, symptoms, mental health and the crew's position inside the
